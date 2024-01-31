@@ -9,6 +9,6 @@
     "rootDir": "./src",
     "strict": true
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts", "src/.init.ts"],
   "exclude": ["node_modules"]
 }

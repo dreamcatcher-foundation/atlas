@@ -1,0 +1,35 @@
+{
+    "src/middleware/cargo": {
+        "description": "module"
+    },
+    "node_modules": {
+        "description": "node"
+    },
+    "package.json": {
+        "description": "node"
+    },
+    "package-lock.json": {
+        "description": "node"
+    },
+    "tsconfig.json": {
+        "description": "ts"
+    },
+    "folder-alias.json": {
+        "description": "vscode"
+    },
+    "src": {
+        "description": "ts"
+    },
+    "LICENSE": {
+        "description": "metadata"
+    },
+    "dist": {
+        "description": "js"
+    },
+    "src/core/kernel": {
+        "description": "."
+    },
+    "src/main.ts": {
+        "description": "."
+    }
+}
