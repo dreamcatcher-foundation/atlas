@@ -92,6 +92,13 @@ export const CargoConstructor = function () {
     };
     return INSTANCE;
 };
+/**
+ * The functionalities of cargo and net are quite similar, and as a quality of
+ * life improvement I thought it would be more convinient to integrate both in
+ * cargo. The cargo module will contain all functionalities required to transmit
+ * data across the system.
+ *
+ */
 export const NET = (function () {
     let instance;
     return function () {

@@ -1,7 +1,6 @@
 {
   "name": "atlas",
   "version": "0.5.0",
-  "description": "",
   "main": "main.js",
   "type": "module",
   "scripts": {
@@ -23,5 +22,6 @@
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/inquirer": "^9.0.7"
-  }
+  },
+  "description": ""
 }
